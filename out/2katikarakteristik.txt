@@ -1,0 +1,1083 @@
+Name: Property : 1
+
+Point of Beginning :  North: 4691733.2876m     East: 7512580.5175m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 2.199m
+North: 4691734.9900m     East: 7512581.9100m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691734.7685m     East: 7512582.1809m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 2.199m
+North: 4691733.0661m     East: 7512580.7884m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691733.2876m     East: 7512580.5175m
+
+--------------------------------------------------
+
+
+Perimeter: 5.099m     Area: 0.77sq.m
+************************************************************************
+Name: Property : 2
+
+Point of Beginning :  North: 4691730.5976m     East: 7512583.8063m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691731.5262m     East: 7512584.5658m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691731.3205m     East: 7512584.8173m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691730.3919m     East: 7512584.0578m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691730.5976m     East: 7512583.8063m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 3
+
+Point of Beginning :  North: 4691733.7232m     East: 7512586.7826m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691732.7946m     East: 7512586.0231m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691733.0003m     East: 7512585.7716m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691733.9289m     East: 7512586.5311m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691733.7232m     East: 7512586.7826m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 4
+
+Point of Beginning :  North: 4691736.3974m     East: 7512583.5132m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691735.4688m     East: 7512582.7537m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691735.6903m     East: 7512582.4828m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691736.6189m     East: 7512583.2424m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691736.3974m     East: 7512583.5132m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 5
+
+Point of Beginning :  North: 4691741.8103m     East: 7512587.9406m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691740.8817m     East: 7512587.1811m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691741.1033m     East: 7512586.9103m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691742.0319m     East: 7512587.6698m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691741.8103m     East: 7512587.9406m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 6
+
+Point of Beginning :  North: 4691743.6221m     East: 7512588.9705m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 2.199m
+North: 4691745.3245m     East: 7512590.3630m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691745.1030m     East: 7512590.6338m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 2.199m
+North: 4691743.4006m     East: 7512589.2413m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691743.6221m     East: 7512588.9705m
+
+--------------------------------------------------
+
+
+Perimeter: 5.099m     Area: 0.77sq.m
+************************************************************************
+Name: Property : 7
+
+Point of Beginning :  North: 4691741.7059m     East: 7512592.8922m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691742.6345m     East: 7512593.6517m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691742.4288m     East: 7512593.9032m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691741.5002m     East: 7512593.1437m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691741.7059m     East: 7512592.8922m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 8
+
+Point of Beginning :  North: 4691737.8007m     East: 7512597.6667m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691738.7292m     East: 7512598.4263m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691738.5077m     East: 7512598.6971m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691737.5791m     East: 7512597.9376m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691737.8007m     East: 7512597.6667m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 9
+
+Point of Beginning :  North: 4691734.5080m     East: 7512594.9736m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691735.4366m     East: 7512595.7331m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691735.2151m     East: 7512596.0039m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691734.2865m     East: 7512595.2444m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691734.5080m     East: 7512594.9736m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 10
+
+Point of Beginning :  North: 4691729.0792m     East: 7512590.5655m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691730.0078m     East: 7512591.3250m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691729.8021m     East: 7512591.5765m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691728.8735m     East: 7512590.8170m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691729.0792m     East: 7512590.5655m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 11
+
+Point of Beginning :  North: 4691727.3994m     East: 7512589.6112m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691726.4708m     East: 7512588.8517m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691726.6765m     East: 7512588.6002m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691727.6051m     East: 7512589.3597m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691727.3994m     East: 7512589.6112m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 12
+
+Point of Beginning :  North: 4691733.8131m     East: 7512602.5419m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691734.7417m     East: 7512603.3014m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.325m
+North: 4691734.5360m     East: 7512603.5529m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691733.6074m     East: 7512602.7933m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.325m
+North: 4691733.8131m     East: 7512602.5419m
+
+--------------------------------------------------
+
+
+Perimeter: 3.049m     Area: 0.39sq.m
+************************************************************************
+Name: Property : 13
+
+Point of Beginning :  North: 4691731.0915m     East: 7512605.8693m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691732.0201m     East: 7512606.6289m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691731.7985m     East: 7512606.8997m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691730.8699m     East: 7512606.1402m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691731.0915m     East: 7512605.8693m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 14
+
+Point of Beginning :  North: 4691727.3059m     East: 7512610.4975m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691728.2345m     East: 7512611.2571m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691728.0129m     East: 7512611.5279m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691727.0843m     East: 7512610.7684m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691727.3059m     East: 7512610.4975m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 15
+
+Point of Beginning :  North: 4691725.3229m     East: 7512614.8167m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 2.199m
+North: 4691723.6205m     East: 7512613.4242m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691723.8420m     East: 7512613.1534m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 2.199m
+North: 4691725.5445m     East: 7512614.5459m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691725.3229m     East: 7512614.8167m
+
+--------------------------------------------------
+
+
+Perimeter: 5.099m     Area: 0.77sq.m
+************************************************************************
+Name: Property : 16
+
+Point of Beginning :  North: 4691721.3232m     East: 7512611.0931m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691722.2518m     East: 7512611.8527m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691722.0303m     East: 7512612.1235m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691721.1017m     East: 7512611.3640m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691721.3232m     East: 7512611.0931m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 17
+
+Point of Beginning :  North: 4691724.1786m     East: 7512608.3917m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 0.500m
+North: 4691723.7917m     East: 7512608.0752m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.900m
+North: 4691724.3613m     East: 7512607.3788m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 0.500m
+North: 4691724.7483m     East: 7512607.6952m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.900m
+North: 4691724.1786m     East: 7512608.3917m
+
+--------------------------------------------------
+
+
+Perimeter: 2.799m     Area: 0.45sq.m
+************************************************************************
+Name: Property : 18
+
+Point of Beginning :  North: 4691727.9817m     East: 7512603.7455m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 0.502m
+North: 4691727.5931m     East: 7512603.4276m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.900m
+North: 4691728.1628m     East: 7512602.7312m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 0.502m
+North: 4691728.5514m     East: 7512603.0490m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.900m
+North: 4691727.9817m     East: 7512603.7455m
+
+--------------------------------------------------
+
+
+Perimeter: 2.804m     Area: 0.45sq.m
+************************************************************************
+Name: Property : 19
+
+Point of Beginning :  North: 4691730.5751m     East: 7512600.5714m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 0.500m
+North: 4691730.1882m     East: 7512600.2549m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.800m
+North: 4691730.6945m     East: 7512599.6359m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 0.500m
+North: 4691731.0814m     East: 7512599.9524m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.800m
+North: 4691730.5751m     East: 7512600.5714m
+
+--------------------------------------------------
+
+
+Perimeter: 2.599m     Area: 0.40sq.m
+************************************************************************
+Name: Property : 20
+
+Point of Beginning :  North: 4691720.5534m     East: 7512603.3600m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 0.350m
+North: 4691720.8242m     East: 7512603.5815m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 1.600m
+North: 4691719.8115m     East: 7512604.8197m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 0.350m
+North: 4691719.5407m     East: 7512604.5981m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 1.600m
+North: 4691720.5534m     East: 7512603.3600m
+
+--------------------------------------------------
+
+
+Perimeter: 3.899m     Area: 0.56sq.m
+************************************************************************
+Name: Property : 21
+
+Point of Beginning :  North: 4691716.6078m     East: 7512607.2365m
+
+Segment #1  :  Line
+
+Course: N39° 16' 56"E     Length: 1.200m
+North: 4691717.5364m     East: 7512607.9961m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 04"E     Length: 0.350m
+North: 4691717.3148m     East: 7512608.2669m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 56"W     Length: 1.200m
+North: 4691716.3862m     East: 7512607.5073m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 04"W     Length: 0.350m
+North: 4691716.6078m     East: 7512607.2365m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 22
+
+Point of Beginning :  North: 4691710.3766m     East: 7512604.4643m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691711.3052m     East: 7512605.2238m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691711.0836m     East: 7512605.4946m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691710.1550m     East: 7512604.7351m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691710.3766m     East: 7512604.4643m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 23
+
+Point of Beginning :  North: 4691707.9235m     East: 7512602.4578m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 2.199m
+North: 4691709.6259m     East: 7512603.8503m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691709.4044m     East: 7512604.1211m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 2.199m
+North: 4691707.7020m     East: 7512602.7287m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691707.9235m     East: 7512602.4578m
+
+--------------------------------------------------
+
+
+Perimeter: 5.099m     Area: 0.77sq.m
+************************************************************************
+Name: Property : 24
+
+Point of Beginning :  North: 4691713.2511m     East: 7512597.8392m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691712.3225m     East: 7512597.0797m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691712.5440m     East: 7512596.8089m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691713.4726m     East: 7512597.5684m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691713.2511m     East: 7512597.8392m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 25
+
+Point of Beginning :  North: 4691717.4285m     East: 7512592.7320m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691716.4999m     East: 7512591.9724m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691716.7214m     East: 7512591.7016m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691717.6500m     East: 7512592.4611m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691717.4285m     East: 7512592.7320m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 26
+
+Point of Beginning :  North: 4691720.2698m     East: 7512589.8898m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.600m
+North: 4691719.0317m     East: 7512588.8771m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.400m
+North: 4691719.2848m     East: 7512588.5676m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.600m
+North: 4691720.5230m     East: 7512589.5803m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.400m
+North: 4691720.2698m     East: 7512589.8898m
+
+--------------------------------------------------
+
+
+Perimeter: 3.999m     Area: 0.64sq.m
+************************************************************************
+Name: Property : 27
+
+Point of Beginning :  North: 4691722.4450m     East: 7512591.6044m
+
+Segment #1  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691721.5164m     East: 7512590.8449m
+
+
+Segment #2  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691721.7379m     East: 7512590.5740m
+
+
+Segment #3  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691722.6665m     East: 7512591.3335m
+
+
+Segment #4  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691722.4450m     East: 7512591.6044m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 28
+
+Point of Beginning :  North: 4691719.1745m     East: 7512593.7080m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691720.1031m     East: 7512594.4676m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691719.8815m     East: 7512594.7384m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691718.9529m     East: 7512593.9789m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691719.1745m     East: 7512593.7080m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 29
+
+Point of Beginning :  North: 4691714.9970m     East: 7512598.8153m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 1.200m
+North: 4691715.9256m     East: 7512599.5748m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691715.7041m     East: 7512599.8457m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 1.200m
+North: 4691714.7755m     East: 7512599.0861m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691714.9970m     East: 7512598.8153m
+
+--------------------------------------------------
+
+
+Perimeter: 3.099m     Area: 0.42sq.m
+************************************************************************
+Name: Property : 30
+
+Point of Beginning :  North: 4691728.9807m     East: 7512594.6178m
+
+Segment #1  :  Line
+
+Course: S50° 43' 09"E     Length: 0.250m
+North: 4691728.8224m     East: 7512594.8112m
+
+
+Segment #2  :  Line
+
+Course: S39° 16' 51"W     Length: 6.038m
+North: 4691724.1485m     East: 7512590.9882m
+
+
+Segment #3  :  Line
+
+Course: S50° 43' 09"E     Length: 2.999m
+North: 4691722.2497m     East: 7512593.3097m
+
+
+Segment #4  :  Line
+
+Course: N39° 16' 51"E     Length: 6.038m
+North: 4691726.9236m     East: 7512597.1327m
+
+
+Segment #5  :  Line
+
+Course: S50° 43' 09"E     Length: 0.250m
+North: 4691726.7654m     East: 7512597.3262m
+
+
+Segment #6  :  Line
+
+Course: S39° 16' 51"W     Length: 2.994m
+North: 4691724.4477m     East: 7512595.4305m
+
+
+Segment #7  :  Line
+
+Course: S50° 43' 09"E     Length: 3.399m
+North: 4691722.2957m     East: 7512598.0615m
+
+
+Segment #8  :  Line
+
+Course: N39° 16' 51"E     Length: 2.999m
+North: 4691724.6172m     East: 7512599.9603m
+
+
+Segment #9  :  Line
+
+Course: S50° 43' 09"E     Length: 0.250m
+North: 4691724.4590m     East: 7512600.1538m
+
+
+Segment #10  :  Line
+
+Course: S39° 16' 51"W     Length: 3.249m
+North: 4691721.9440m     East: 7512598.0967m
+
+
+Segment #11  :  Line
+
+Course: N50° 43' 09"W     Length: 3.649m
+North: 4691724.2543m     East: 7512595.2723m
+
+
+Segment #12  :  Line
+
+Course: S39° 16' 51"W     Length: 3.044m
+North: 4691721.8980m     East: 7512593.3449m
+
+
+Segment #13  :  Line
+
+Course: N50° 43' 09"W     Length: 3.499m
+North: 4691724.1133m     East: 7512590.6365m
+
+
+Segment #14  :  Line
+
+Course: N39° 16' 51"E     Length: 6.288m
+North: 4691728.9807m     East: 7512594.6178m
+
+--------------------------------------------------
+
+
+Perimeter: 44.947m     Area: 5.55sq.m
+************************************************************************
+Name: Property : 31
+
+Point of Beginning :  North: 4691738.4133m     East: 7512590.1990m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 0.500m
+North: 4691738.8002m     East: 7512590.5155m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.797m
+North: 4691738.2957m     East: 7512591.1322m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 0.500m
+North: 4691737.9088m     East: 7512590.8158m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.797m
+North: 4691738.4133m     East: 7512590.1990m
+
+--------------------------------------------------
+
+
+Perimeter: 2.593m     Area: 0.40sq.m
+************************************************************************
+Name: Property : 32
+
+Point of Beginning :  North: 4691713.9596m     East: 7512607.3950m
+
+Segment #1  :  Line
+
+Course: N39° 16' 51"E     Length: 2.199m
+North: 4691715.6620m     East: 7512608.7874m
+
+
+Segment #2  :  Line
+
+Course: S50° 43' 09"E     Length: 0.350m
+North: 4691715.4405m     East: 7512609.0583m
+
+
+Segment #3  :  Line
+
+Course: S39° 16' 51"W     Length: 2.199m
+North: 4691713.7381m     East: 7512607.6658m
+
+
+Segment #4  :  Line
+
+Course: N50° 43' 09"W     Length: 0.350m
+North: 4691713.9596m     East: 7512607.3950m
+
+--------------------------------------------------
+
+
+Perimeter: 5.099m     Area: 0.77sq.m
